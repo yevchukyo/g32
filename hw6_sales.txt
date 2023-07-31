@@ -1,0 +1,4 @@
+January, Product A, Sales: 10
+February, Product B, Sales: 20
+March, Product A, Sales: 30 
+April, Product C, Sales: 40 
